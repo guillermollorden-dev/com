@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504192434Z3VVJS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605041924342NB4WB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>INTERSTELLAR</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje: ver todo lo aplicado durante el curso</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Guillermo Llordén Pozo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777912744717</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777912787046-wyzxbv9qj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Interstellar: una aventura en la situación de aprendizaje</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Interstellar: una aventura en la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777912787046-wyzxbv9qj</odePageId>
+      <odeBlockId>block-1777915331297-vnb04nohy</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777912787046-wyzxbv9qj</odePageId>
+          <odeBlockId>block-1777915331297-vnb04nohy</odeBlockId>
+          <odeIdeviceId>idevice-1777915331296-v39vppto8</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777915331296-v39vppto8" title="" href="{{context_path}}/content/resources/infografia.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/infografia.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915331296-v39vppto8","img_0":{"img":"{{context_path}}/content/resources/infografia.jpg","thumbnail":"{{context_path}}/content/resources/infografia.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777912834796-lm3mv6310</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777912834796-lm3mv6310</odePageId>
+      <odeBlockId>block-1777912837315-9ijwcmnx8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777912834796-lm3mv6310</odePageId>
+          <odeBlockId>block-1777912837315-9ijwcmnx8</odeBlockId>
+          <odeIdeviceId>idevice-1777912837313-9gblw7g7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vas a analizar la Física que aparece en la película Interstellar (Christopher Nolan, 2014). A lo largo del curso hemos estudiado leyes y modelos físicos que permiten explicar fenómenos relacionados con el movimiento, la gravitación, la energía o las ondas. El objetivo de esta actividad es comprobar hasta qué punto esos modelos científicos aparecen reflejados en una obra de ciencia ficción y con qué grado de rigor.</p>
+<p>El cine puede ser una herramienta muy potente para acercar la ciencia a situaciones contextualizadas, pero también utiliza licencias narrativas. Tu tarea será diferenciar la Física real de la ficción cinematográfica, justificando tus conclusiones con argumentos científicos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912837313-9gblw7g7j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vas a analizar la Física que aparece en la película Interstellar (Christopher Nolan, 2014). A lo largo del curso hemos estudiado leyes y modelos físicos que permiten explicar fenómenos relacionados con el movimiento, la gravitación, la energía o las ondas. El objetivo de esta actividad es comprobar hasta qué punto esos modelos científicos aparecen reflejados en una obra de ciencia ficción y con qué grado de rigor.</p>\n<p>El cine puede ser una herramienta muy potente para acercar la ciencia a situaciones contextualizadas, pero también utiliza licencias narrativas. Tu tarea será diferenciar la Física real de la ficción cinematográfica, justificando tus conclusiones con argumentos científicos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777913264433-fkkgxeiys</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>INFOGRAFIA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFOGRAFIA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777913264433-fkkgxeiys</odePageId>
+      <odeBlockId>block-1777914494457-nx5clm8z6</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777913264433-fkkgxeiys</odePageId>
+          <odeBlockId>block-1777914494457-nx5clm8z6</odeBlockId>
+          <odeIdeviceId>idevice-1777914494455-zxxa1yfje</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777914494455-zxxa1yfje" title="" href="{{context_path}}/content/resources/infografia.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/infografia.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914494455-zxxa1yfje","img_0":{"img":"{{context_path}}/content/resources/infografia.jpg","thumbnail":"{{context_path}}/content/resources/infografia.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777914691622-aae19oc66</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>OBJETIVO </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBJETIVO </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777914691622-aae19oc66</odePageId>
+      <odeBlockId>block-1777914693608-kso94b3mp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777914691622-aae19oc66</odePageId>
+          <odeBlockId>block-1777914693608-kso94b3mp</odeBlockId>
+          <odeIdeviceId>idevice-1777914693606-lh8mzfn2q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aplicar los contenidos de Física de 2.º de Bachillerato al análisis de situaciones reales o simuladas.<br />Comprender y explicar fenómenos físicos presentes en la película.<br />Valorar de forma crítica el rigor científico de Interstellar.<br />Comunicar conclusiones científicas de forma clara, tanto por escrito como de manera audiovisual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914693606-lh8mzfn2q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aplicar los contenidos de Física de 2.º de Bachillerato al análisis de situaciones reales o simuladas.<br />Comprender y explicar fenómenos físicos presentes en la película.<br />Valorar de forma crítica el rigor científico de Interstellar.<br />Comunicar conclusiones científicas de forma clara, tanto por escrito como de manera audiovisual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777914741823-sfyqqaq6l</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>DESCRIPCIÓN DE LA TAREA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DE LA TAREA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777914741823-sfyqqaq6l</odePageId>
+      <odeBlockId>block-1777914754375-5q1d3hr6z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777914741823-sfyqqaq6l</odePageId>
+          <odeBlockId>block-1777914754375-5q1d3hr6z</odeBlockId>
+          <odeIdeviceId>idevice-1777914754373-du00velh3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Deberás realizar DOS PRODUCTOS OBLIGATORIOS, ambos de carácter individual:</p>
+<p>A) TRABAJO ESCRITO (formato texto)<br />Elaborarás un documento escrito en el que analices varias escenas de la película desde el punto de vista de la Física.</p>
+<p>El trabajo debe incluir obligatoriamente las siguientes partes:</p>
+<p>Datos iniciales</p>
+<p>Nombre y apellidos<br />Curso y grupo<br />Título del trabajo<br />Breve resumen de la película<br />Entre 10 y 12 líneas, centrado en los aspectos fundamentales de la trama.<br />Análisis físico de escenas Para cada escena seleccionada deberás:</p>
+<p>Describir brevemente la escena.<br />Indicar qué concepto o ley física aparece (gravitación, energía, relatividad, ondas, etc.).<br />Explicar la escena desde el punto de vista científico, relacionándola con los contenidos vistos en clase.<br />Valorar si la escena es científicamente rigurosa o si presenta licencias cinematográficas.<br />Conclusión final Reflexión personal sobre el uso de la Física en Interstellar y su valor científico.<br />El trabajo se entregará en formato digital (Word convertido a PDF)</p>
+<p>B) VÍDEO DE CONCLUSIONES<br />Además del trabajo escrito, deberás grabar un vídeo breve (2–3 minutos) en el que expongas de forma oral:</p>
+<p>Las ideas principales de tu análisis.<br />Las conclusiones más importantes a las que has llegado.<br />Tu valoración crítica sobre el rigor científico de la película.<br />No es necesario ningún formato profesional: basta con que se te vea y se te escuche claramente, utilizando un lenguaje científico adecuado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914754373-du00velh3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Deberás realizar DOS PRODUCTOS OBLIGATORIOS, ambos de carácter individual:</p>\n<p>A) TRABAJO ESCRITO (formato texto)<br />Elaborarás un documento escrito en el que analices varias escenas de la película desde el punto de vista de la Física.</p>\n<p>El trabajo debe incluir obligatoriamente las siguientes partes:</p>\n<p>Datos iniciales</p>\n<p>Nombre y apellidos<br />Curso y grupo<br />Título del trabajo<br />Breve resumen de la película<br />Entre 10 y 12 líneas, centrado en los aspectos fundamentales de la trama.<br />Análisis físico de escenas Para cada escena seleccionada deberás:</p>\n<p>Describir brevemente la escena.<br />Indicar qué concepto o ley física aparece (gravitación, energía, relatividad, ondas, etc.).<br />Explicar la escena desde el punto de vista científico, relacionándola con los contenidos vistos en clase.<br />Valorar si la escena es científicamente rigurosa o si presenta licencias cinematográficas.<br />Conclusión final Reflexión personal sobre el uso de la Física en Interstellar y su valor científico.<br />El trabajo se entregará en formato digital (Word convertido a PDF)</p>\n<p>B) VÍDEO DE CONCLUSIONES<br />Además del trabajo escrito, deberás grabar un vídeo breve (2–3 minutos) en el que expongas de forma oral:</p>\n<p>Las ideas principales de tu análisis.<br />Las conclusiones más importantes a las que has llegado.<br />Tu valoración crítica sobre el rigor científico de la película.<br />No es necesario ningún formato profesional: basta con que se te vea y se te escuche claramente, utilizando un lenguaje científico adecuado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777914829857-tzhcwmebq</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>CONTENIDOS DE FÍSICA QUE PUEDES UTILIZAR</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDOS DE FÍSICA QUE PUEDES UTILIZAR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777914829857-tzhcwmebq</odePageId>
+      <odeBlockId>block-1777914831426-wsxrrscqm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777914829857-tzhcwmebq</odePageId>
+          <odeBlockId>block-1777914831426-wsxrrscqm</odeBlockId>
+          <odeIdeviceId>idevice-1777914831424-cfomk3lmh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Puedes relacionar tu análisis con cualquiera de los siguientes contenidos trabajados en la materia:</p>
+<p>Gravitación universal y movimiento orbital.<br />Trabajo, energía y conservación de la energía.<br />Campo gravitatorio.<br />Ondas electromagnéticas.<br />Introducción cualitativa a la relatividad gravitatoria.<br />Agujeros negros (enfoque divulgativo).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914831424-cfomk3lmh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Puedes relacionar tu análisis con cualquiera de los siguientes contenidos trabajados en la materia:</p>\n<p>Gravitación universal y movimiento orbital.<br />Trabajo, energía y conservación de la energía.<br />Campo gravitatorio.<br />Ondas electromagnéticas.<br />Introducción cualitativa a la relatividad gravitatoria.<br />Agujeros negros (enfoque divulgativo).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777914866324-c57jpka9f</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777914866324-c57jpka9f</odePageId>
+      <odeBlockId>block-1777914868192-43qzga6qu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777914866324-c57jpka9f</odePageId>
+          <odeBlockId>block-1777914868192-43qzga6qu</odeBlockId>
+          <odeIdeviceId>idevice-1777914868191-78nhkqm2j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad se valorará especialmente:</p>
+<p>La correcta identificación y explicación de los fenómenos físicos.<br />El uso adecuado del lenguaje científico y la notación.<br />La capacidad de análisis y razonamiento crítico.<br />La claridad y coherencia del trabajo escrito.<br />La capacidad de síntesis y expresión oral en el vídeo</p>
+<p>LOS CRITERIOS DE CALIFICACIÓN serán los siguientes:</p>
+<ul>
+<li>Producto escrito: 70 %</li>
+<li>Vídeo de conclusiones: 30 %</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914868191-78nhkqm2j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad se valorará especialmente:</p>\n<p>La correcta identificación y explicación de los fenómenos físicos.<br />El uso adecuado del lenguaje científico y la notación.<br />La capacidad de análisis y razonamiento crítico.<br />La claridad y coherencia del trabajo escrito.<br />La capacidad de síntesis y expresión oral en el vídeo</p>\n<p>LOS CRITERIOS DE CALIFICACIÓN serán los siguientes:</p>\n<ul>\n<li>Producto escrito: 70 %</li>\n<li>Vídeo de conclusiones: 30 %</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777914908924-e8mopwvu7</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>FORMATO DE ENTREGA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FORMATO DE ENTREGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777914908924-e8mopwvu7</odePageId>
+      <odeBlockId>block-1777914910525-h8kdm5efj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777914908924-e8mopwvu7</odePageId>
+          <odeBlockId>block-1777914910525-h8kdm5efj</odeBlockId>
+          <odeIdeviceId>idevice-1777914910524-juo852xit</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Trabajo escrito: archivo PDF.<br />Vídeo: archivo de vídeo o enlace, según indique el profesor/a.<br />Ambos se entregarán a través de la plataforma digital del centro en la fecha indicada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914910524-juo852xit","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Trabajo escrito: archivo PDF.<br />Vídeo: archivo de vídeo o enlace, según indique el profesor/a.<br />Ambos se entregarán a través de la plataforma digital del centro en la fecha indicada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777915072527-jzjwbfk8t</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>OBSERVACIONES FINALES</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBSERVACIONES FINALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>OBSERVACIONES FINALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777915072527-jzjwbfk8t</odePageId>
+      <odeBlockId>block-1777915123963-4okpa6a34</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777915072527-jzjwbfk8t</odePageId>
+          <odeBlockId>block-1777915123963-4okpa6a34</odeBlockId>
+          <odeIdeviceId>idevice-1777915123961-tzwmsfxif</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este trabajo es individual y debe ser original. El uso de fuentes externas está permitido siempre que se comprendan y se expresen con palabras propias. Se valorará positivamente la profundidad del análisis y la relación clara con los contenidos de la asignatura</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915123961-tzwmsfxif","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este trabajo es individual y debe ser original. El uso de fuentes externas está permitido siempre que se comprendan y se expresen con palabras propias. Se valorará positivamente la profundidad del análisis y la relación clara con los contenidos de la asignatura</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777915190711-1wh05tjr3</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>RÚBRICA TRABAJO TEXTO</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA TRABAJO TEXTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777915190711-1wh05tjr3</odePageId>
+      <odeBlockId>block-1777915253748-op5crupf5</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777915190711-1wh05tjr3</odePageId>
+          <odeBlockId>block-1777915253748-op5crupf5</odeBlockId>
+          <odeIdeviceId>idevice-1777915253746-q5kh1jxat</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777915253746-q5kh1jxat" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.30.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.30.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915253746-q5kh1jxat","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.30.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.30.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777915203761-b7diqt8gg</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>RÚBRICA VÍDEO</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA VÍDEO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777915203761-b7diqt8gg</odePageId>
+      <odeBlockId>block-1777915287079-easgchkqm</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777915203761-b7diqt8gg</odePageId>
+          <odeBlockId>block-1777915287079-easgchkqm</odeBlockId>
+          <odeIdeviceId>idevice-1777915287079-wi518z7wh</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777915287079-wi518z7wh" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.45.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.45.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915287079-wi518z7wh","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.45.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.20.45.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777915371997-hseofemdp</odePageId>
+  <odeParentPageId>page-1777912787046-wyzxbv9qj</odeParentPageId>
+  <pageName>Descargable</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777915371997-hseofemdp</odePageId>
+      <odeBlockId>block-1777915373931-peju8mfpo</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777915371997-hseofemdp</odePageId>
+          <odeBlockId>block-1777915373931-peju8mfpo</odeBlockId>
+          <odeIdeviceId>idevice-1777915373930-bjds8icmq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">INTERSTELLAR</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Guillermo Llordén Pozo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
